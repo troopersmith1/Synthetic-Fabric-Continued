@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Craftable Synthetics - 1.1</name>
+	<url></url>
+        <supportedVersions>
+            <li>1.0</li>
+            <li>1.1</li>
+        </supportedVersions>
+	<author>2ndNegative - troopersmith1</author>  
+	<packageId>Troopersmith1.CraftableSynthetics</packageId>	
+	<description>Version: 1.4.1
+
+This is a mod that adds craftable Synthread and Hyperweave.
+	</description>
+</ModMetaData>
