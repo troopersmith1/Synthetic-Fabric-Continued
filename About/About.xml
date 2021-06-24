@@ -2,11 +2,14 @@
 <ModMetaData>
 	<name>Craftable Synthetics Continued [1.0][1.1][1.2]</name>
 	<url></url>
-        <supportedVersions>
-			<li>1.0</li>
-			<li>1.1</li>
-			<li>1.2</li>
-        </supportedVersions>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>notfood.MendAndRecycle</li>
+	</loadAfter>
 	<author>2ndNegative - troopersmith1</author>  
 	<packageId>Troopersmith1.CraftableSynthetics</packageId>	
 	<description>Version: 1.4.1
